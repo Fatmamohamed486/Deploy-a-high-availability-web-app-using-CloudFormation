@@ -1,0 +1,13 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "FatmaMohamedUdacityProject"
+	}
+	
+	,
+
+	{
+		"ParameterKey": "ImgID",
+		"ParameterValue": "ami-0747bdcabd34c712a"
+	}
+]
